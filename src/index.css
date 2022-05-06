@@ -1,13 +1,27 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.card{
+  width: 18rem;
+}
+.card-title{
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.price{
+ padding-left: 6rem;
 }
+li{
+  list-style-type: none;
+  display: inline;
+  
+}
+
+span{
+  font-size: 13px;
+}
+
+
+
+.prodDetails{
+  display: inline;
+}
+
+
